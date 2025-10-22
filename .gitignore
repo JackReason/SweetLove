@@ -1,0 +1,17 @@
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+
+.vs
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.opendb
+*.opensdf
+*.sdf
+.vscode
+**/.history
